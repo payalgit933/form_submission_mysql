@@ -8,7 +8,8 @@ This is a basic form built with **React** and **Vite**. The form collects:
 - Email
 - Contact Number
 - Gender (Radio Buttons)
-  
+# Demo
+![Screenshot](screenshot.png)
 ## 🚀 Getting Started
 
 1. Clone the repository:
